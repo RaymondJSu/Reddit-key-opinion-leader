@@ -1,5 +1,5 @@
 # Reddit-key-opinion-leader
-[cover](img/cover.png)
+![cover](img/cover.png)
 
 # Final Report Fetch and clean
 # Final Report
